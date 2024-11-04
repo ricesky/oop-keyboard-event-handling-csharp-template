@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardEventHandling", "KeyboardEventHandling\KeyboardEventHandling.csproj", "{67DF9F9C-AC97-47B0-9A64-14D8C271C8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DF9F9C-AC97-47B0-9A64-14D8C271C8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DF9F9C-AC97-47B0-9A64-14D8C271C8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DF9F9C-AC97-47B0-9A64-14D8C271C8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DF9F9C-AC97-47B0-9A64-14D8C271C8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FE7D933-3A9F-4755-B5FE-48C3B4FA04D5}
+	EndGlobalSection
+EndGlobal
